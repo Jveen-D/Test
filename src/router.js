@@ -5,7 +5,7 @@
  */
 
 import { createRouter, createWebHistory } from "vue-router";
-import A from "./components/A.vue";
+import A from "./pages/A.vue";
 const routes = [
   {
     path: "/",
